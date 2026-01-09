@@ -42,11 +42,3 @@
 
 <br />
 <br />
-
----
-
-<br />
-<br />
-<br />
-
-[![Eric Kanomata's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekanomata)](https://github.com/anuraghazra/github-readme-stats)
