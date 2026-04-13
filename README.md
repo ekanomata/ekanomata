@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFjN3U2MHR3Z3F5OHZzMjRlZHBkYmg5ZzdiM2U2c2JpbGt4MDk2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtkBhVpYTySsqiP04V/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJjYnRsOGRrZTQ5YnM1N3NjaGwzdjlqb2NiM3Z3bjN2dW1rY2djcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif"  />
 </div>
  
 # Eric Kanomata Schutz Cabrera
