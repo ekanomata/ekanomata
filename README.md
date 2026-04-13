@@ -13,8 +13,8 @@
 ---
 
 ### Sobre mim | About me
-- Atualmente servindo meu 3° ano no exército como recepcionista do Hotel de Trânisto de Oficiais
-<br />Currently serving my third year in the army as a receptionist at the Transit Hotel in Ibirapuera
+- Finalizei meu 3° ano de serviço no exército como recepcionista e assistente de suporte de TI
+<br />Just finished my third year of military service as a receptionist and IT support assistant
 <br />
 <br />
 
