@@ -6,7 +6,6 @@
 
 ### Mídias Sociais | Social Medias
 <a href="https://www.linkedin.com/in/eric-kanomata-schutz-cabrera-7973a2247" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/e.kanomata" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <br />
 <br />
 
