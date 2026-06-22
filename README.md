@@ -12,19 +12,20 @@
 ---
 
 ### Sobre mim | About me
-- Finalizei meu 3° ano de serviço no exército como recepcionista e assistente de suporte de TI
-<br />Just finished my third year of military service as a receptionist and IT support assistant
-<br />
+- Estagiando na área de Dados na empresa ENESA Engenharia / SP
+<br />Data Internship at ENESA Engenharia in São Paulo
 <br />
 
--  3° Semestre de Ciências da Computação na Escola Presbiteriana Mackenzie
-<br />3rd Semester Computer Science Major at Presbyterian School Mackenzie
-<br />
+-  4° Semestre de Ciências da Computação na Escola Presbiteriana Mackenzie
+<br />4rd Semester Computer Science Major at Presbyterian School Mackenzie
 <br />
 
 -  Viso avançar nas áreas de machine learning e cybersegurança
 <br />My goal is to advance in machine learning and cybersecurity areas
 <br />
+
+- Trabalho com programação, SQL, automações em Python e Excel (VBA)
+<br />Currently working with programming, SQL, Python automations and Excel (VBA)
 
 ---
 
